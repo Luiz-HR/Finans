@@ -1,0 +1,34 @@
+#home {
+	background: #ffc107;
+	color: rgb(95, 81, 81);
+}
+.nav-principal{
+	border: 5px solid red;
+
+	}
+	.caixa{
+		padding: 50px 0;
+		border-bottom: 1px solid #e5e5e5 ;
+	}
+	footer p a{
+		margin: 5px 15px;
+		color: rgb(95, 81, 81);
+	}
+
+	
+	.ali{
+		padding-top: 30px;
+	}
+	.ajust{
+	margin-top: 30px;
+	margin-bottom: 15px;
+		
+	}
+	.ali a{
+		font-size: 18px;
+		color: rgb(95, 81, 81);
+		text-decoration: none;
+		
+	}
+	
+	
